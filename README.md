@@ -1,2 +1,2 @@
-# style
-Visual profile for Paxport.
+# Paxport Visual Identity
+Common files for the Paxport Visual Identity.
